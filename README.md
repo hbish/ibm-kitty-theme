@@ -1,6 +1,6 @@
 # IBM Design Color Theme for Kitty
 
-> A kitty theme based on IBM Design Colors
+> A [kitty](https://sw.kovidgoyal.net/kitty/) theme based on [IBM Design Colors](https://www.ibm.com/design/v1/language/resources/)
 
 ## Themes
 
@@ -13,7 +13,7 @@
 Download the theme conf file
 
 ```
-curl https://raw.githubusercontent.com/hbish/ibm-kitty-theme/master/LICENSE -o ~/.config/kitty/ibm-blue.conf
+curl https://raw.githubusercontent.com/hbish/ibm-kitty-theme/master/ibm-blue.conf -o ~/.config/kitty/ibm-blue.conf
 ```
 
 Add the theme to your kitty conf
