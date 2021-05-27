@@ -1,12 +1,16 @@
 # IBM Design Color Theme for Kitty
 
-> A [kitty](https://sw.kovidgoyal.net/kitty/) theme based on [IBM Design Colors](https://www.ibm.com/design/v1/language/resources/)
+> A [kitty](https://sw.kovidgoyal.net/kitty/) theme based on [IBM Design Colors](https://www.ibm.com/design/language/color)
 
 ## Themes
 
 ### ibm-blue.conf
 
-![screenshot](screenshot.png)
+![screenshot](screenshots/ibm-blue.png)
+
+### ibm-noir.conf
+
+![screenshot](screenshots/ibm-noir.png)
 
 ## Installation
 
